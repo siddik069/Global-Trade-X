@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Primary Meta -->
+    <title>GlobalTradeX — Global B2B/B2C Marketplace</title>
+    <meta name="description" content="Connect with 200,000+ verified manufacturers, wholesalers and suppliers worldwide. Trade Assurance, secure payments, AI-powered support." />
+    <meta name="keywords" content="B2B marketplace, wholesale, suppliers, manufacturers, trade assurance, global trade" />
+    <meta name="author" content="GlobalTradeX" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="GlobalTradeX — Trade Without Borders" />
+    <meta property="og:description" content="Global B2B/B2C marketplace with AI-powered customer service. 5M+ products, 190+ countries." />
+    <meta property="og:url" content="https://YOUR_USERNAME.github.io/globaltradeX/" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="GlobalTradeX — Global B2B/B2C Marketplace" />
+    <meta name="twitter:description" content="Trade Without Borders. 5M+ products, 200K+ verified suppliers." />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <!-- Preconnect for Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
